@@ -14,7 +14,40 @@ To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.4.0</font></b></summary>
+
+## New Experimental Role:
+
+• Added Cupid (Neutral Benign)
+
+## New Commands:
+
+• /save [fileName] - Saves the current preset into TOHE-DATA/Presets; Host only.<br>
+• /load [fileName] - Loads a preset from TOHE-DATA/Presets<br>
+
+## Changes:
+
+• Refactored Lovers to allow multiple lover pairs and better interactions (Lovers can now be stolen/removed)
+• Added options to hide reveals for certain roles (Consigliere, Potion Master, Baker)
+• Added options to Necromancer, Judge, Copycat, Rat list, and other role-specific settings
+• Harvester, Bandit, Jackal, and Sidekick added to Copycat variants list
+• Improved system message resending and other reliability improvements
+
+## Bug Fixes:
+
+• Fixed Medusa mark showing twice after death
+• Fixed guessing UI not working on non-host modded clients
+• Fixed Harvester stealing too many add-ons
+• Fixed Merchant selling Crewmate instead of failing to sell
+• Fixed Inquisitor winning when dead
+• Fixed Dreamwoven messaging timing and other launch/fix issues
+
+### Check out all of the mod's info on our website: https://tohe.weareten.ca/
+
+</details>
+
+<details>
+<summary><b><font color=#d395b4>v2.2.0</font></b></summary>
 
 # Important Notes
 We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
@@ -95,7 +128,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Engineer-based roles with 1-second vent duration now can't move in the vent (like jester)<br>
 - New Option: Dictator use /vote command to expel players @hinhinarrrrrr<br>
 
-<b>Minor Role Changes</b><br>
+-<b>Minor Role Changes</b><br>
 - Double Agent now can kill when it's the only imp alive @Impostor4291<br>
 - Changed the ability button text for some roles @PEPPERcula<br>
 - Fix Role Description for DollMaster and ChiefOfPolice by @Impostor4291<br>
@@ -114,7 +147,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Add Legacy option for Traitor and Parasite (Can Shapeshift) by @PEPPERcula<br>
 - Other Minor changes that are missed from this list<br>
 
-<b>Improvements</b><br>
+-<b>Improvements</b><br>
 - New Option For Low Load: Delay Update Names @Tommy-XL<br>
   - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary<br>
   - If you have any issues with name updates, please turn off this option and send us a report or open an Issue!<br>
@@ -132,13 +165,13 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - More Custom Buttons @PEPPERcula<br>
   - 18 images added or updated to the mod<br>
 
-<b>Silent Tweaks:</b><br>
+-<b>Silent Tweaks:</b><br>
 - Send failed error on failed murder attempts @NikoCat233<br>
 - Improve code performance @Tommy-XL<br>
 - Improve AntiBlackout @Tommy-XL<br>
 - Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br>
 
-<b>Other Bug Fixes and Improvements</b><br>
+-<b>Other Bug Fixes and Improvements</b><br>
 - Fixed bug when role name for modded players hide in Mushroom Spore<br>
 - Fixed Cursed Soul stole the win of Workaholic setting<br>
 - Fixed Cursed Soul setting "know role" not work<br>
@@ -171,7 +204,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Fixed Jackal and Police Chief being able to recruit Neutral Apocalypse @Reborn5537<br>
 - Our future official releases will include obfuscation on specific methods and functions. <br>
   - Obfuscation aims to protect our official builds from malicious tampering.<br>
-- Language folder is now changed to TOHE\Language<br>
+- Language folder is now changed to TOHE\\Language<br>
 - Rebased RoleBase to include targeting Custom Roles in it<br>
 - Included latest Custom Region files in the mod<br>
 - Added backup API URL in an attempt to ease connection issues in certain countries and regions<br>

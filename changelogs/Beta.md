@@ -15,7 +15,161 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.1 Beta 1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.4.0 Beta 3</font></b></summary>
+
+## New Experimental Role:
+
+• Added Catalyst (Crewmate)
+
+## Changes:
+
+• Added settings to Harvester for if they steal/swap recruiting add-ons<br>
+• Added a setting to the Coven Leader to pass recruiting add-ons to retrained helpers<br>
+• Added a setting to Doppleganger to prevent the target from seeing roles when dead<br>
+• Reworked the Merchant add-on selling to fail less often<br>
+• Added gradient support for custom tags<br>
+
+## Bug Fixes:
+
+• Fixed vanilla settings resetting after the game<br>
+• Fixed /l showing the wrong game's info<br>
+• Fixed Inquisitor bypassing shields<br>
+• Fixed Jinx mark showing twice after dead<br>
+• Fixed Lovers always being able to be assigned to a coven
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.4.0 Beta 2</font></b></summary>
+
+### Updated to Among Us v17.0
+
+### Changes:
+
+- Renamed Detective to Forensic
+- Made multiple copies of hidden roles able to spawn
+- Improved update detection
+
+### Bug Fixes:
+
+• Fixed Gangster recruiting Coven incorrectly<br>
+• Fixed Veteran not being able to kill Jinx where intended behavior changed after rework<br>
+• Fixed Dreamweaver insomnia timing after meetings<br>
+• Fixed several role-specific and UI bugs reported in Beta 1
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.4.0 Beta 1</font></b></summary>
+
+• New Experimental Roles: Inquisitor (Neutral Chaos), Lich (Neutral Apocalypse), Rat (Helpful Add-on)
+
+## Changes & Fixes:
+
+• Added gradient support for host name & tag<br>
+• Disabled some role combinations to prevent redundant behavior (e.g., mimic vs necroview)<br>
+• Added "Disable Hidden Roles" option<br>
+• Added toggle for meeting eject sound effect<br>
+
+## Bug Fixes:
+
+• Fixed venting abilities not working for the host<br>
+• Fixed various client-side sync and UI bugs
+
+</details>
+
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 6</font></b></summary>
+
+### What's Changed / Improvements
+
+• Improved option syncing between clients<br>
+• Localization & color updates (Crowdin translation updates, added beige color for Russian)
+
+### Bug Fixes
+
+• Fixed mod clients sending options causing an anti-cheat ban on official servers<br>
+• Fixed notification popups on settings change for mod clients
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 5</font></b></summary>
+
+• Change RPC calls to Modded RPC calls (hopes to fix related issues)
+• Fixed bug where attempting to kill Punching Bag increased killer's Ability Uses
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 4</font></b></summary>
+
+• Miscellaneous fixes and custom sound additions
+• Fixed shapeshifter roles causing black screen on game start
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 3</font></b></summary>
+
+• Improved rate limit measures and several bug fixes to gameplay and UI
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 2 Hotfix 1</font></b></summary>
+
+= Fixed an issue where player names were not synced before and after the meeting
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 2</font></b></summary>
+
+• Important stability and compatibility fixes; Coven Roles and Tag System previously introduced; many bug fixes and improvements
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Beta 1</font></b></summary>
+
+• Updated to Among Us 16.0.5
+
+Known issues:
+
+1. Player name updates may be broken in certain conditions (modded/vanilla sync issues)
+2. Vanilla players may not see exile text in some cases
+3. Blackout issues may still occur
+4. Potential anticheat kicks on official servers in certain situations
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Beta 5</font></b></summary>
+
+• Fixed FFA not having a kill button
+• Attempted fixes for anticheat kicks on official servers
+
+Note: Please provide logs if you still experience anticheat bans.
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Beta 4</font></b></summary>
+
+• Fixed anticheat kick on officials; added option to disable "bypass ratelimit anticheat"
+• Disabled chat in Free-For-All mode due to blackout issues
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Beta 3</font></b></summary>
+
+• Fixed anticheat kick issue on official servers; can safely disable "Experimental Bypass RateLimit Anticheat" option
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Beta 2</font></b></summary>
+
+• Fixed Reactor sabotage not being fixable
+• Improved AntiBlackOut system
+• Fixed region display in ping tracker
+
+Known issues: Shapeshifter roles may cause an anticheat ban on official servers; recommend using modded regions
+
+</details>
+
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Beta 1</font></b></summary>
 
 <b>Support Among Us 16.0.0</b><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Rpc wrapping and Packet spliting<br>
