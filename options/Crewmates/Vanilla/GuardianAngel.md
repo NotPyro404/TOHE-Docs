@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Guardian Angel
 prev: Engineer
-next: Scientist
+next: Noisemaker
 ---
 
-# <font color="#6ecebe">👼 <b>Guardian Angel</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
+# <font color="#6ecebe">ðŸ‘¼ <b>Guardian Angel</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 ---
 
 As the Guardian Angel, you are the first crewmate to die and can give Crewmates temporary shields.

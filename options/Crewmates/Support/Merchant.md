@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Merchant
-prev: Medic
+prev: Medium
 next: Mortician
 ---
 
-# <font color="#d27d2d">🛒 <b>Merchant</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#d27d2d">ðŸ›’ <b>Merchant</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 Complete Tasks to give Players a Random Add-On, and receive money that can be used to escape death if you have enough. 
@@ -16,7 +16,7 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
 * Amount of Money earned for selling an Add-On
   * Set how much Money the Merchant receives for selling an Add-On to someone
 * Amount of Money required to bribe a Killer
-  * Set how much Money the Merchant must have to Bribe a Killer so you won’t die
+  * Set how much Money the Merchant must have to Bribe a Killer so you wonâ€™t die
 * Inform Mechant when a Killer gets bribed
   * <font color=green>ON</font>: the Merchant will receive a Notice above their name informing them that they bribed a Killer
   * <font color=red>OFF</font>: the Merchant will not receive this Notice
@@ -44,7 +44,7 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
 * Can Sell Helpful Add-Ons only to Crew
   * <font color=green>ON</font>: the Merchant can only sell their Helpful Add-Ons to Crew Roles
   * <font color=red>OFF</font>: the Merchant can sell Helpful Add-Ons as they normally would
-* Override Merchant’s Tasks
+* Override Merchantâ€™s Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Merchant needs to do
   * <font color=red>OFF</font>: the Merchant does the same amount of Tasks as anyone else
     * Merchant has Common Tasks

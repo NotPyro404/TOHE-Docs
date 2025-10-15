@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: War
-prev: Berserker
-next: Berserker
+prev: Sunnyboy
+next: /options/Settings/Neutrals.html
 ---
 
-# <font color=#2b0804>⚔️ <b>War</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
+# <font color=#2b0804>âš”ï¸ <b>War</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 As War, you are invincible, have a lower kill cooldown, and can kill anyone with your
@@ -17,7 +17,7 @@ Your presence is announced to everyone at the meeting after you transform.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-"AAAAAAAAAAAH" Continuing from ⁠Berserker
+"AAAAAAAAAAAH" Continuing from â Berserker
 What's.. Happening?
  
 As a tentacle flew out from the visor.. The visor cracker.. A screech of pain and terror in the whole ship..

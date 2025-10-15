@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: YinYanger
 prev: Witch
 next: Zombie
 ---
 
-# <font color="red">☯️ <b>YinYanger</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">â˜¯ï¸ <b>YinYanger</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the YinYanger, you can use your kill button one time to pick your Yin, and a second time to choose a Yang. When those 2 players meet, they'll kill each-other. When Yin & Yang have been chosen you can kill normally.
@@ -29,26 +29,26 @@ When the time came for impostor selection, the bean had a brilliant idea. He wou
 
 Idea Number 1: Instigate Anger
 
-“Too much work,” he thought, dismissing this option.
+â€œToo much work,â€ he thought, dismissing this option.
 
 Idea Number 2: Deception
 
-“Lies always work,” he mused. “Lying to yin and yang? That’s a fantastic idea!”
+â€œLies always work,â€ he mused. â€œLying to yin and yang? Thatâ€™s a fantastic idea!â€
 
 Game One
 
-He selected the players. To the yin, he whispered, “The yang wants to destroy you. He claims he’s far superior. You need to eliminate him.”
+He selected the players. To the yin, he whispered, â€œThe yang wants to destroy you. He claims heâ€™s far superior. You need to eliminate him.â€
 
-Then, to the yang, he said, “It’s your destiny to take down the yin. There’s no other way to prove yourself.”
+Then, to the yang, he said, â€œItâ€™s your destiny to take down the yin. Thereâ€™s no other way to prove yourself.â€
 
-To both players, he added ominously, “The blood on your hands is a mark of your choices. You can decide whose blood it will be.”
+To both players, he added ominously, â€œThe blood on your hands is a mark of your choices. You can decide whose blood it will be.â€
 
-As the beans squared off against each other, the bean who orchestrated this scheme watched with glee. “Yes! This is working perfectly!” he exclaimed.
+As the beans squared off against each other, the bean who orchestrated this scheme watched with glee. â€œYes! This is working perfectly!â€ he exclaimed.
 
 The Conclusion
 
 In the end, both yin and yang fell to their own rivalry, unaware that they had been manipulated. The bean, now calling himself the YinYanger, reveled in his cleverness as he claimed victory.
 
-This was the birth of the Egoist and the YinYanger. In the aftermath, the only trace left behind was a single symbol—the Chinese yin yang image—marking the chaos that ensued.
+This was the birth of the Egoist and the YinYanger. In the aftermath, the only trace left behind was a single symbolâ€”the Chinese yin yang imageâ€”marking the chaos that ensued.
 > Submitted by: champofchamps78
 </details>

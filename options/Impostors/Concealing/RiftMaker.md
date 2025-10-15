@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Rift Maker
 prev: Puppeteer
 next: Scavenger
 ---
 
-# <font color="red">☄️ <b>Rift Maker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">â˜„ï¸ <b>Rift Maker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 As Rift Maker you can shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out and all the rifts will be destroyed.<br><br>
@@ -32,7 +32,7 @@ SLASH! went Rick, killing the impostor in one strike.
 
 BUT WAIT! It wasn't an Imp... it was the Sheriff! Rick had just gone to the dark side!
 
-Rick became addicted to killing—so addicted that he even said, "I no longer dream, only nightmares of those who've died." But he couldn't stop now.
+Rick became addicted to killingâ€”so addicted that he even said, "I no longer dream, only nightmares of those who've died." But he couldn't stop now.
 
 He used his ray gun to teleport all around the map, leaving a trail of bodies.
 

@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Cursed Soul
-prev: /options/Settings/Neutrals.html
+prev: Arsonist
 next: Doomsayer
 ---
 
-# <font color="#531269">👿 <b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
+# <font color="#531269">ðŸ‘¿ <b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
 ---
 
 Snatch the Victory by living until the End of the Game. You can Snatch the Souls of players, and they will win with you. They count as dead.
@@ -20,7 +20,7 @@ Snatch the Victory by living until the End of the Game. You can Snatch the Souls
   * <font color=red>OFF</font>: the Cursed Soul cannot see the Roles of players, even if they are Soulless
 * <font color=#7f8c8d>Neutral</font> roles have souls
   * <font color=green>ON</font>: you can use your ability on Neutrals
-  * <font color=red>OFF</font>: you cannot use your ability on Neutrals, and will receive a pop-up saying “No Soul Found”
+  * <font color=red>OFF</font>: you cannot use your ability on Neutrals, and will receive a pop-up saying â€œNo Soul Foundâ€
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 

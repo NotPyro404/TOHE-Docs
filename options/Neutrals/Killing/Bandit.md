@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Bandit
-prev: Arsonist
+prev: Agitator
 next: BloodKnight
 ---
 
-# <font color="#8B008B">🦝 <b>Bandit</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#8B008B">ðŸ¦ <b>Bandit</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Bandit, use your kill button to steal a player's add-on. Depending on the settings, you may instantly steal the addon or after the meeting starts. After the max number of steals are reached you will be able to kill normally. Additionally, if there are no stealable addons present on the target you will kill the target.<br><br>

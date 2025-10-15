@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Ninja
 prev: Mercenary
 next: QuickShooter
 ---
 
-# <font color="red">🥷 <b>Ninja</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">ðŸ¥· <b>Ninja</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 <font size=3em>Formerly known as Assassin</font>
 
@@ -31,23 +31,23 @@ The crewmates were in a state of panic. The lights had gone out, and a shadowy f
 
 Chapter 2: Flashback
 
-“Ah, what a great day!” thought the scientist, immersed in his research on nanoparticles. He envisioned a groundbreaking technology that would enhance agility and stealth. This invention was meant as a gift for the sheriff. With a stroke of genius, he created the Ninja Suit. This suit could mark a target and then render the wearer invisible for a brief moment. In an instant, the wearer could shift from one location to another—one moment in Electrical, the next in Admin.
+â€œAh, what a great day!â€ thought the scientist, immersed in his research on nanoparticles. He envisioned a groundbreaking technology that would enhance agility and stealth. This invention was meant as a gift for the sheriff. With a stroke of genius, he created the Ninja Suit. This suit could mark a target and then render the wearer invisible for a brief moment. In an instant, the wearer could shift from one location to anotherâ€”one moment in Electrical, the next in Admin.
 
 Chapter 3: Back to Reality
 
 Back in the present, the crewmates were on edge, struggling to navigate the pitch-black environment. One crewmate, frustrated by a mischievous fellow flicking the wrong switches, suddenly heard a chilling SLASH. Panic set in as two crewmates whispered urgently to each other.
 
-“Where is he? Where is he?”
-“Keep your head down; he’s aiming for the lights!”
-“He’s using the darkness to conceal his approach!”
+â€œWhere is he? Where is he?â€
+â€œKeep your head down; heâ€™s aiming for the lights!â€
+â€œHeâ€™s using the darkness to conceal his approach!â€
 
-Another SLASH echoed through the air—three kills in mere seconds. The remaining crewmates realized they were in grave danger.
+Another SLASH echoed through the airâ€”three kills in mere seconds. The remaining crewmates realized they were in grave danger.
 
 Chapter 4: Sabotage Resolved
 
-“Finally!” exclaimed one crewmate as he fixed the sabotage, just in time to spot the shadowy figure nearby. With only three crewmates left, they were at a disadvantage. The agile Ninja was a master of evasion. Believing he was safe, they ejected an innocent crewmate, thinking they had eliminated the threat.
+â€œFinally!â€ exclaimed one crewmate as he fixed the sabotage, just in time to spot the shadowy figure nearby. With only three crewmates left, they were at a disadvantage. The agile Ninja was a master of evasion. Believing he was safe, they ejected an innocent crewmate, thinking they had eliminated the threat.
 
-But the Ninja had been in control the entire time. Once a brilliant scientist, he had succumbed to the temptation of his own creation. “Why should I share this gift?” he thought. “It’s mine—only mine!”
+But the Ninja had been in control the entire time. Once a brilliant scientist, he had succumbed to the temptation of his own creation. â€œWhy should I share this gift?â€ he thought. â€œItâ€™s mineâ€”only mine!â€
 
 Conclusion
 

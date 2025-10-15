@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Mastermind
 prev: DollMaster
 next: /options/Settings/Impostors.html
 ---
 
-# <font color="red">🧙‍♂️ <b>Mastermind</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color="red">ðŸ§™â€â™‚ï¸ <b>Mastermind</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Mastermind, you can use your kill button on a player once to manipulate them. This does nothing if the target doesn't have a kill button, but if the target has a kill button of any type, they'll be told after a delay that they were manipulated and they must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.<br>
@@ -26,7 +26,7 @@ Mastermind was always bullied by others because he had an enormously large head.
 
 He had only one goal: to influence and kill people. He knew that those who bullied him had a kill button, but they were far too afraid to use it. The best way for him to get revenge was to force them into a position where they had to kill.
 
-Either they kill, or they die. 🔪
+Either they kill, or they die. ðŸ”ª
 
 But Mastermind knew one thing: this way of killing would win him the battle, not the war.
 > Submitted by: champofchamps78

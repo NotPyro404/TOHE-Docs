@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Pestilence
-prev: Plaguebearer
-next: Plaguebearer
+prev: Famine
+next: RomanticRuthless
 ---
 
-# <font color=#343136>🧫 <b>Pestilence</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
+# <font color=#343136>ðŸ§« <b>Pestilence</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 As Pestilence, you're an unstoppable machine. Any attack towards you will be reflected towards them.<br>

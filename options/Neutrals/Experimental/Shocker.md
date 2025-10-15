@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Shocker
 prev: Quizmaster
 next: /options/Settings/Neutrals.html
 ---
 
-# <font color=#cccc00>🌩️ <b>Shocker</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#cccc00>ðŸŒ©ï¸ <b>Shocker</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Shocker, you can mark rooms by doing tasks in them, and then vent to Electrocute anyone in those rooms for a set period of time. When you finish all of your tasks, you get new ones. Note: Doing tasks during that period will mark them for the next ability use.

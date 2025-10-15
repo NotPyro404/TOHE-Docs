@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Revenant
 prev: Pursuer
 next: Romantic
 ---
 
-# <font color="#a37621">👻 <b>Revenant</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#a37621">ðŸ‘» <b>Revenant</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
 As the Revenant, your goal is to be killed. If you

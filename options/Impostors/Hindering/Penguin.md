@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Penguin
 prev: Eraser
 next: Pitfall
 ---
 
-# <font color="red">🐧 <b>Penguin</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">ðŸ§ <b>Penguin</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 ---
 
 As the Penguin, you can restrain target by pressing the kill button, and drag around.

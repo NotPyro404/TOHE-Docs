@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Rebirth
 prev: Radar
 next: Seer
 ---
 
-# <font color=#f38c24>🧬 <b>Rebirth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#f38c24>ðŸ§¬ <b>Rebirth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 As the Rebirth, if you're the player about to be ejected, you will swap skins with someone and thrive once more.

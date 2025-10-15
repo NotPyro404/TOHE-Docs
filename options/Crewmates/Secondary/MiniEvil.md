@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Evil Mini
-prev: Mini
+prev: /options/Settings/Crewmates.html
 next: MiniNice
 ---
 
-# <font color=red>🐁 <b>Evil Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color=red>ðŸ <b>Evil Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 ---
 
 As an Evil Mini, you are unkillable until you grow up and have a very long initial kill cooldown, which is drastically shortened as you grow up.<br><br>

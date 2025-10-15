@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Ventguard
 prev: TimeMaster
 next: Witness
 ---
 
-# <font color="#e091e0">🛡️ <b>Ventguard</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#e091e0">ðŸ›¡ï¸ <b>Ventguard</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Ventguard, you can enter Vents to Block them. Nobody can enter blocked vents except Crewmates. If the setting is on, vents can reset every meeting.

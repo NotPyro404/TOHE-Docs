@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Chief Of Police
 prev: Captain
 next: Copycat
 ---
 
-# <font color="#f0c341">👮 <b>Chief Of Police</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#f0c341">ðŸ‘® <b>Chief Of Police</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
 Players with swords can be recruited to join the sheriff's team to serve the crew. <br>

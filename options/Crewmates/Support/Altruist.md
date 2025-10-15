@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Altruist
 prev: /options/Settings/Crewmates.html
-next: Chameleon
+next: Benefactor
 ---
 
-# <font color="#9b0202">💞 <b>Altruist</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#9b0202">ðŸ’ž <b>Altruist</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Altruist, you can sacrifice yourself to revive a dead body using the Report button. Note: If a dead player has left the game, you report that body normally. Revived players cannot report their own dead bodies

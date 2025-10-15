@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Vigilante
 prev: Veteran
 next: /options/Settings/Crewmates.html
 ---
 
-# <font color="#9304c1">🤺 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#9304c1">ðŸ¤º <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Vigilante is tasked with eliminating potential threats to the crew, but if they mistakenly kill an innocent Crewmate, they become a Madmate driven by guilt and remorse. <br>

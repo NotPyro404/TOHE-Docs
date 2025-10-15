@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Death
-prev: SoulCollector
-next: SoulCollector
+prev: /options/Settings/Neutrals.html
+next: Famine
 ---
 
-# <font color=#644661>💀<b>Death</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
+# <font color=#644661>ðŸ’€<b>Death</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 Once the Soul Collector has collected their needed souls, they become Death. Death kills everyone and wins if Death is not ejected by the end of the next meeting.<br>
@@ -18,7 +18,7 @@ A configurable amount of extra meeting time wi be given on the meeting Death tra
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
 Prologue Legacy. A word many of us have heard.
-Oxford dictionary defines a legacy as the long-lasting impact of particular events, actions, etc. that took place in the past, or of a person’s life. So.. How did I leave behind my legacy?
+Oxford dictionary defines a legacy as the long-lasting impact of particular events, actions, etc. that took place in the past, or of a personâ€™s life. So.. How did I leave behind my legacy?
 Chapter 1 No you don't
 I was running from a dog that was barking so loud behind me while chasing... Run Run I cant stop I cant...
 Oof! And I ran into a pole... Embarrassing

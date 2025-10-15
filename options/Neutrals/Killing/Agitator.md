@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Agitator
 prev: /options/Settings/Neutrals.html
-next: Arsonist
+next: Bandit
 ---
 
-# <font color="#F4A460">💣 <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#F4A460">ðŸ’£ <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Agitator, your premise is essentially Hot Potato.<br><br>

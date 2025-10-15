@@ -1,11 +1,11 @@
----
+﻿---
 lang: en-US
 title: Swift
-prev: Glow
+prev: Rat
 next: /options/Settings/Addons.html
 ---
 
-# <font color=red>🏃 <b>Swift</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=red>ðŸƒ <b>Swift</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Swift, your kills will not cause you to lunge.
