@@ -2,10 +2,10 @@
 lang: en-US
 title: Cupid
 prev: Amnesiac
-next: Hater
+next: Follower
 ---
 
-# <font color="#ff9409">💘 <b>Cupid</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#ec839eff">💘 <b>Cupid</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
 > From: 

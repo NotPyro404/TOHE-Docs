@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Bard
-prev:
-next:
+prev: Arrogance
+next: Arrogance
 ---
 
 # <font color=red>ðŸŽ» <b>Bard</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>

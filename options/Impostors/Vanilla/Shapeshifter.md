@@ -1,11 +1,12 @@
 ﻿---
 lang: en-US
 title: Shapeshifter
-prev:
-next:
+prev: Phantom
+next: Viper
 ---
-
 # <font color="red">ðŸ‘¥ <b>Shapeshifter</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 ---
 
 > From: Innersloth
+
+

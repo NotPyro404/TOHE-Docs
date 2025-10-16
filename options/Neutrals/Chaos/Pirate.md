@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Pirate
-prev:
-next:
+prev: God
+next: Revolutionist
 ---
 
 # <font color="#edc240">ðŸ´â€â˜ ï¸ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

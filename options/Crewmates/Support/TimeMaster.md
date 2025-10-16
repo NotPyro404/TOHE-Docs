@@ -1,11 +1,12 @@
 ﻿---
 lang: en-US
-title: Time Master
-prev:
-next:
+title: TimeMaster
+prev: TimeManager
+next: Ventguard
 ---
-
 # <font color="#44baff">â³ <b>Time Master</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 > From: TOHEX
+
+

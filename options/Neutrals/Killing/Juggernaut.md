@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Juggernaut
-prev:
-next:
+prev: Jackal
+next: Pelican
 ---
 
 # <font color="#a41342">ðŸ’ª <b>Juggernaut</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

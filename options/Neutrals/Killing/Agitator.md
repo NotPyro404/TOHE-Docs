@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Agitator
-prev:
-next:
+prev: Wraith
+next: Bandit
 ---
 
 # <font color="#F4A460">ðŸ’£ <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

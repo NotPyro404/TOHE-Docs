@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Provocateur
-prev:
-next:
+prev: Pixie
+next: Pursuer
 ---
 
 # <font color=#74ba43>ðŸ˜ <b>Provocateur</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

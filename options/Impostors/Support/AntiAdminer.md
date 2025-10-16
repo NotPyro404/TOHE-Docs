@@ -1,11 +1,12 @@
 ﻿---
 lang: en-US
-title: Anti Adminer
-prev:
-next:
+title: AntiAdminer
+prev: 
+next: Blackmailer
 ---
-
 # <font color="red">ðŸ› ï¸ <b>Anti Adminer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 > From: TOHY & Coding: [Yumenopai](https://github.com/Yumenopai)
+
+

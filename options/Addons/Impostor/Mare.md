@@ -1,11 +1,12 @@
 ﻿---
 lang: en-US
 title: Mare
-prev:
-next:
+prev: Madmate
+next: Mimic
 ---
-
 # <font color=red>ðŸ´ <b>Mare</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 > From: TOH
+
+

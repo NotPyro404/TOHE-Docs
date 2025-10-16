@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Requiter
-prev:
-next:
+prev: Knight
+next: Knight
 ---
 
 # <font color="#e2acb5">âš”ï¸ <b>Requiter</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>

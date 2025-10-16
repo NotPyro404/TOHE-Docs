@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Blood Knight
-prev:
-next:
+prev: Bandit
+next: Cultist
 ---
 
 # <font color="#630000">ðŸ©¸ <b>Blood Knight</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

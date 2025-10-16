@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Serial Killer
-prev:
-next:
+prev: Pyromaniac
+next: Shroud
 ---
 
 # <font color="#233fcc">ðŸ”ª <b>Serial Killer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

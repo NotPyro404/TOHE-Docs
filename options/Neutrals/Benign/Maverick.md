@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Maverick
-prev:
-next:
+prev: Lawyer
+next: Opportunist
 ---
 
 # <font color="#781717">ðŸ¤  <b>Maverick</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

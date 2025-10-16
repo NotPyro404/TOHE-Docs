@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Cursed Soul
-prev:
-next:
+prev: Arsonist
+next: Doomsayer
 ---
 
 # <font color="#531269">ðŸ‘¿ <b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

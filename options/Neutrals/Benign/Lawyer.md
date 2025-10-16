@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Lawyer
-prev:
-next:
+prev: Hater
+next: Maverick
 ---
 
 # <font color="#008080">âš–ï¸ <b>Lawyer</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

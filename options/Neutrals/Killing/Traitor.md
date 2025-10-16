@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Traitor
-prev:
-next:
+prev: Stalker
+next: Virus
 ---
 
 # <font color="#ba2e05">ðŸ‘º <b>Traitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

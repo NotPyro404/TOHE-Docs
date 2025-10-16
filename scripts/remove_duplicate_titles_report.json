@@ -1,0 +1,989 @@
+﻿{
+    "repo":  "C:\\Users\\btric\\TOHE-Docs",
+    "generated":  "2025-10-15T20:11:34.8552943-04:00",
+    "processed":  244,
+    "changed":  [
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Abyssbringer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Escapist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Lightning.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Miner.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Puppeteer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\RiftMaker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Scavenger.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Shapemaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\SoulCatcher.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Swooper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Trickster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Undertaker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Vampire.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Warlock.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Concealing\\Wildling.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Experimental\\DollMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Experimental\\Mastermind.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Ghost\\Bloodmoon.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Ghost\\Minion.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Ghost\\Possessor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Anonymous.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Dazzler.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Devourer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Disperser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Eraser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Penguin.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Pitfall.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Stealth.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Hindering\\Twister.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Arrogance.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Bomber.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\BountyHunter.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Butcher.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Chronomancer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Councillor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\CursedWolf.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Deathpact.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\EvilGuesser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\EvilHacker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\EvilTracker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Greedy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Hangman.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Inhibitor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Instigator.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\KillingMachine.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Ludopath.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Lurker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Mercenary.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Ninja.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\QuickShooter.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Saboteur.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Sniper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Trapster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Underdog.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Witch.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\YinYanger.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Killing\\Zombie.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Madmate\\Crewpostor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Madmate\\Parasite.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Madmate\\Refugee.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\AntiAdminer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Blackmailer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Camouflager.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Cleaner.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Consigliere.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\DoubleAgent.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Fireworker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Gangster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Godfather.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Kamikaze.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Morphling.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Nemesis.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\TimeThief.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Vindicator.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Support\\Visionary.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Vanilla\\Impostor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Vanilla\\Phantom.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Vanilla\\Shapeshifter.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Impostors\\Vanilla\\Viper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Addict.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Alchemist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Celebrity.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Cleanser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Doctor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\GuessMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\LazyGuy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Mini.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Mole.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Randomizer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\SuperStar.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\TaskManager.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Tracefinder.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Basic\\Transporter.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Ghost\\Ghastly.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Ghost\\Hawk.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Ghost\\Warden.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Bastion.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Bodyguard.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Crusader.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Deceiver.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Jailer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Judge.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Knight.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\NiceGuesser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Retributionist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Reverie.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Sheriff.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Veteran.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Killing\\Vigilante.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Admirer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Captain.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\ChiefOfPolice.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Copycat.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Dictator.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Guardian.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Lookout.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Marshall.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Mayor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Monarch.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Overseer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\President.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Swapper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Power\\Telecommunication.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Altruist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Benefactor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Chameleon.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Coroner.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Deputy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Enigma.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Forensic.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\FortuneTeller.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Grenadier.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Inspector.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Investigator.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Keeper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Lighter.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Mechanic.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Medic.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Medium.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Merchant.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Mortician.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Observer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Oracle.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Pacifist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Psychic.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Snitch.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Spiritualist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Spy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\TimeManager.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\TimeMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Ventguard.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Support\\Witness.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Crewmate.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Detective.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Engineer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\GuardianAngel.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Noisemaker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Scientist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Crewmates\\Vanilla\\Tracker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Killing\\Conjurer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Killing\\HexMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Killing\\Jinx.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Power\\CovenLeader.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Power\\Ritualist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Trickery\\Dreamweaver.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Trickery\\Illusionist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Trickery\\Poisoner.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\Harvester.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\Medusa.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\MoonDancer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\Necromancer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\PotionMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\Sacrifist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Coven\\Utility\\VoodooMaster.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Experimental\\Glow.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Experimental\\Rat.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Experimental\\Swift.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Guesser\\DoubleShot.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Guesser\\Guesser.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Guesser\\Onbound.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Guesser\\Rebound.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Disregarded.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Fool.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Fragile.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Hurried.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Influenced.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Mundane.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Oblivious.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Prohibited.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Rascal.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Sloth.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Statue.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Tired.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\Unlucky.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Harmful\\VoidBallot.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Autopsy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Bait.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Beartrap.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Bewilder.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Burst.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Cyber.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Eavesdropper.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Evader.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Flash.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Lazy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Loyal.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Lucky.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Necroview.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Nimble.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Overclocked.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Radar.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Rebirth.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Seer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Silent.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Sleuth.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Spurt.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Tiebreaker.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Torch.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Helpful\\Watcher.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Circumvent.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Clumsy.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\LastImpostor.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Madmate.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Mare.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Mimic.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Stealer.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Impostor\\Tricky.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\Egoist.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\Lovers.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\Rainbow.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\Reach.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\Workhorse.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Miscellaneous\\YouTuber.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Antidote.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Avenger.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Aware.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Bloodthirst.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Diseased.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Ghoul.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Gravestone.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\OIIAI.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Paranoia.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Stubborn.md"
+                    },
+                    {
+                        "removed":  1,
+                        "path":  "C:\\Users\\btric\\TOHE-Docs\\options\\Addons\\Mixed\\Susceptible.md"
+                    }
+                ],
+    "skipped":  [
+
+                ],
+    "errors":  [
+
+               ]
+}

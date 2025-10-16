@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Vengeful Romantic
-prev:
-next:
+prev: RomanticRuthless
+next: Romantic
 ---
 
 # <font color="#8b0000">ðŸ’• <b>Vengeful Romantic</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>

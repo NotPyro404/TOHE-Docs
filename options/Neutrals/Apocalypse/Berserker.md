@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Berserker
-prev:
-next:
+prev: Baker
+next: Plaguebearer
 ---
 
 # <font color=#cc0044>ðŸª“ <b>Berserker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>

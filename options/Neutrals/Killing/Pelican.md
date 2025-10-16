@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Pelican
-prev:
-next:
+prev: Juggernaut
+next: Pickpocket
 ---
 
 # <font color="#34c84b">ðŸ¦© <b>Pelican</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

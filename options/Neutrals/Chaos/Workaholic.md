@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Workaholic
-prev:
-next:
+prev: Vulture
+next: Collector
 ---
 
 # <font color="#008b8b">ðŸ‘· <b>Workaholic</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

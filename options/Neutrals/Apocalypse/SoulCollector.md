@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Soul Collector
-prev:
-next:
+prev: Plaguebearer
+next: Baker
 ---
 
 # <font color=#a475a4>ðŸ‘» <b>Soul Collector</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>

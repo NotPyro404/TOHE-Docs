@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Innocent
-prev:
-next:
+prev: Executioner
+next: Jester
 ---
 
 # <font color="#887a59">ðŸ‘¼ <b>Innocent</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

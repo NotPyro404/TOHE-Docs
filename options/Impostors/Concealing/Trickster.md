@@ -1,11 +1,12 @@
 ﻿---
 lang: en-US
 title: Trickster
-prev:
-next:
+prev: Swooper
+next: Undertaker
 ---
-
 # <font color="red">ðŸŽ­ <b>Trickster</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 > From: TOH+
+
+

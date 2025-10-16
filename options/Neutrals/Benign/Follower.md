@@ -1,8 +1,8 @@
 ﻿---
 lang: en-US
 title: Follower
-prev:
-next:
+prev: Cupid
+next: Hater
 ---
 
 # <font color="#ff9409">ðŸš¶ <b>Follower</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

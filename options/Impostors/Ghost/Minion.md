@@ -1,10 +1,11 @@
 ﻿---
 lang: en-US
 title: Minion
-prev:
-next:
+prev: Bloodmoon
+next: Possessor
 ---
-
 # <font color="red">ðŸ‘¿ <b>Minion</b></font> <Badge text="Ghost" type="tip" vertical="middle"/>
 ---
+
+
 

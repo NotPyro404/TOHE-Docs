@@ -1,10 +1,11 @@
 ﻿---
 lang: en-US
-title: Hex Master
-prev:
-next:
+title: HexMaster
+prev: Conjurer
+next: Jinx
 ---
-
 # <font color="#ff00ff">âœï¸ <b>Hex Master</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
+
+
 
