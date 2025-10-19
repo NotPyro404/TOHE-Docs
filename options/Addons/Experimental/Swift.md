@@ -2,11 +2,9 @@
 lang: en-US
 title: Swift
 prev: Rat
-next: 
+next: Glow
 ---
 # <font color=red>ðŸƒ <b>Swift</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
----
 
-> From: TOHEX
-
-
+As the Swift, you will not make any movement when you kill.<br>
+Note: Swift also ignores Bait.

@@ -6,6 +6,5 @@ next: Shroud
 ---
 
 # <font color="#233fcc">ðŸ”ª <b>Serial Killer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: Town of Salem 1
+As the Serial Killer, you win if you are the last player alive.<br>

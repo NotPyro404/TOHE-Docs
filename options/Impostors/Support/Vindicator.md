@@ -5,8 +5,5 @@ prev: TimeThief
 next: Visionary
 ---
 # <font color="red">ðŸ—£ï¸ <b>Vindicator</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
 
-> From: TOH+
-
-
+As the Vindicator, you have extra votes like a Mayor.<br>

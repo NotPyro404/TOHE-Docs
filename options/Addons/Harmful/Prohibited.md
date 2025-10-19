@@ -5,8 +5,6 @@ prev: Oblivious
 next: Rascal
 ---
 # <font color=#6a8f8f>â›” <b>Prohibited</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
----
-
-> From: [TommyXL](#)
-
-
+ 
+As the Prohibited, you have specific Vents that you can't use.
+How many Vents are disabled depends on the Host's settings.

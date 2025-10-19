@@ -2,11 +2,9 @@
 lang: en-US
 title: Rebound
 prev: Onbound
-next: 
+next: DoubleShot
 ---
 # <font color=#56b5ff>ðŸ€ <b>Rebound</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
----
 
-> From: SLE [SolarFlare](#) & Coding: [ryuk](#)
-
-
+With the Rebound Add-on, if a Guesser successfully guessed you or a Judge successfully judged you, they will die instead.<br>
+If a player with Double Shot guesses you correctly, they will die instantly.

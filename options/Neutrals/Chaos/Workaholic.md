@@ -6,6 +6,5 @@ next: Collector
 ---
 
 # <font color="#008b8b">ðŸ‘· <b>Workaholic</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
----
-
-> From: TOHY
+ 
+As the Workaholic, you win alone when you complete all tasks. Depending on the Host's settings, you can only win if you are alive and or revealed to everyone at the beginning (these settings are rarely both on).<br>

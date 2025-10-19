@@ -1,11 +1,11 @@
 ﻿---
 lang: en-US
 title: Bard
-prev: Arrogance
-next: Arrogance
+prev: Bard
+next: Bard
 ---
 
 # <font color=red>ðŸŽ» <b>Bard</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
----
 
-> From: Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+When a Bard is alive, the exile confirmation will display a sentence composed by the Bard. Whenever the Bard completes a creation, the Bard's Kill Cooldown will be permanently halved.<br>
+

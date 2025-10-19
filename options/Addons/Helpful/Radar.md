@@ -4,9 +4,6 @@ title: Radar
 prev: Overclocked
 next: Rebirth
 ---
-# <font color=#d41e04>ðŸ§­ <b>Radar</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
+# <font color=#2cfc04>ðŸ§­ <b>Radar</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
-> From: TOU:R & Coding: [ryuk](https://github.com/ryuk2098)
-
-
+As Radar, you have arrows pointing towards the closest person at all times.

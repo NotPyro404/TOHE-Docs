@@ -1,12 +1,9 @@
 ﻿---
 lang: en-US
 title: Egoist
-prev: 
+prev: YouTuber
 next: Lovers
 ---
 # <font color=#5600ff>ðŸ’ª <b>Egoist</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
----
 
-> From: [å°å¨é™¢é•¿](https://space.bilibili.com/1998829749) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+Madmate and Neutrals won't be Egoist. If the Egoist's team wins, the Egoist wins instead of their team.

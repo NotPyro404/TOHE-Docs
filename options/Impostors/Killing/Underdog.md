@@ -5,8 +5,5 @@ prev: Trapster
 next: Witch
 ---
 # <font color="red">ðŸ¶ <b>Underdog</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
-
-
+As the Underdog, you cannot kill until there's a certain amount of players alive.<br>

@@ -5,8 +5,5 @@ prev: AntiAdminer
 next: Camouflager
 ---
 # <font color=red>ðŸ”‡ <b>Blackmailer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
 
-> From: ToUR & Coding: [LezaiYa](https://github.com/LezaiYa)
-
-
+As the Blackmailer, when you Shift into a target, you will blackmail that player. This means that during the meetings, they won't be able to speak. Note: If someone is already blackmailed, blackmailing another person un-blackmails the current person.<br>

@@ -5,8 +5,5 @@ prev: Mundane
 next: Prohibited
 ---
 # <font color=#424242>ðŸ¤¡ <b>Oblivious</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
----
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+Forensic and Cleaners won't be Oblivious. The Oblivious cannot report dead bodies. Note: Bait killed by Oblivious will still report automatically, and Oblivious can still be used as a scapegoat for Anonymous.

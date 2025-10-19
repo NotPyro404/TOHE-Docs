@@ -5,8 +5,5 @@ prev: Rainbow
 next: Workhorse
 ---
 # <font color=#74ba43>ðŸ«³ <b>Reach</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
----
 
-> From: [Gurge44](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+Only roles with a Kill button can get this Add-on. Unlike everyone else, you have the longest kill range possible in the game.

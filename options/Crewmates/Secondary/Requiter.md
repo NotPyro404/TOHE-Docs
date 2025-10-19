@@ -6,6 +6,5 @@ next: Knight
 ---
 
 # <font color="#e2acb5">âš”ï¸ <b>Requiter</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
----
 
-> From: Idea & Coding: [ImpyIsLazy](https://github.com/impostor4291)
+The Requiter has no bullets at the beginning. For each Crewmate ejected,the Requiter gains one bullet. The Requiter can kill when they have bullets.

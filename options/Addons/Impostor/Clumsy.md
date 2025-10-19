@@ -7,6 +7,8 @@ next: LastImpostor
 # <font color="red">ðŸ¤• <b>Clumsy</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
-> From: [Ciredm](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 
-
+ 
+As the Clumsy, you have a chance to miss your kill.<br>
+When you miss, your Cooldown is reset, and the target remains untouched.<br>
+Only assigned to killers.

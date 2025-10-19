@@ -6,6 +6,6 @@ next: Revenant
 ---
 
 # <font color="#617218">ðŸ˜˜ <b>Pursuer</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
 
-> From: TheOtherRolesAU + "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+As the Pursuer, you can use your ability on someone to make them misfire when they try to kill.<br>
+To win, survive to the end of the game.<br>

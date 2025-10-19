@@ -5,8 +5,5 @@ prev: Evader
 next: Lazy
 ---
 # <font color=#fb8404>âš¡ <b>Flash</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
 
-> From: TOH:TOR & Coding: [KARPED1EM](#)
-
-
+The Flash's default movement speed is faster than others. (speed depends on the setting of the Host)

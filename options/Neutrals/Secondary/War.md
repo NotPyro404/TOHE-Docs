@@ -1,11 +1,10 @@
 ﻿---
 lang: en-US
 title: War
-prev: Berserker
-next: Berserker
+prev: Sunnyboy
+next: Death
 ---
 
-# <font color=#2b0804>âš”ï¸ <b>War</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
+# <font color=#2b0804><b>War</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
-> From: Marg

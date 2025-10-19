@@ -5,8 +5,5 @@ prev: Penguin
 next: Stealth
 ---
 # <font color=red>ðŸ¤¸ <b>Pitfall</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
----
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
-
-
+As the Pitfall, you use your Shapeshift to mark the area around the Shapeshift as a trap. Players who enter this area will be immobilized quickly, and their vision will be affected.<br>

@@ -5,8 +5,5 @@ prev: Arrogance
 next: BountyHunter
 ---
 # <font color=red>ðŸ’£ <b>Bomber</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+The Bomber can use the Shapeshift button to self-explode, killing players within a certain range. But as a price, the Bomber will also die. Note: All players will see a kill flash when the Bomber explodes.<br>

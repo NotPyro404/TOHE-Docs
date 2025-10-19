@@ -6,6 +6,7 @@ next: Opportunist
 ---
 
 # <font color="#781717">ðŸ¤  <b>Maverick</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
-
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+ 
+As the Maverick, you can kill and, depending on options, Vent and have Impostor vision.<br>
+If you survive until the end of the game, you win with the winning team.<br>
+Use your killing ability to eliminate threats to your life, but don't get voted out.<br>

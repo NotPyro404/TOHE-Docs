@@ -5,8 +5,5 @@ prev: Shapemaster
 next: Swooper
 ---
 # <font color="red">ðŸ‘» <b>Soul Catcher</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
----
 
-> From: [æ³•å¸ˆ](https://space.bilibili.com/511107305) & Coding: [NCSIMON](https://github.com/NCSIMON)
-
-
+As the Soul Catcher, you can use ShapeShift button to swap places with your target as long as they are not dead, in a Vent, swallowed by Pelican, or in a similar odd state.<br>

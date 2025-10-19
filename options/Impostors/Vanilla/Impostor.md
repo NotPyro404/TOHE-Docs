@@ -1,12 +1,9 @@
 ﻿---
 lang: en-US
 title: Impostor
-prev: 
+prev: Viper
 next: Phantom
 ---
 # <font color="red">ðŸ”ª <b>Impostor</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
----
 
-> From: Innersloth
-
-
+As the Impostor, your goal is to simply kill off the Crewmates. You can Sabotage and Vent.<br>

@@ -5,8 +5,5 @@ prev: Phantom
 next: Viper
 ---
 # <font color="red">ðŸ‘¥ <b>Shapeshifter</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
----
 
-> From: Innersloth
-
-
+As the Shapeshifter, you can Shapeshift into other players. It is obvious when you Shapeshift or revert Shifting.<br>

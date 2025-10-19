@@ -2,11 +2,8 @@
 lang: en-US
 title: VoidBallot
 prev: Unlucky
-next: 
+next: Disregarded
 ---
 # <font color=#ff3399>ðŸ—³ï¸ <b>Void Ballot</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
----
 
-> From: Idea: [thewhiskas27] & Coding: [ryuk]
-
-
+Holder of this Add-on will have 0 vote count.

@@ -5,8 +5,6 @@ prev: Deathpact
 next: EvilHacker
 ---
 # <font color="red">ðŸ”ª <b>Evil Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)ã€[Commandf1](https://github.com/commandf1)
-
-
+The Evil Guesser can guess the role of a certain player during the meeting. If correct, the target dies. If wrong, the Evil Guesser dies. The guessing command is: /bt [player id] [role]<br>
+You can see the player's id before the player's name or use the /id command to view the id of all players.<br>

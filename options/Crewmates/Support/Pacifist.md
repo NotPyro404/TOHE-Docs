@@ -5,8 +5,5 @@ prev: Oracle
 next: Psychic
 ---
 # <font color="#007fff">ðŸ›’ <b>Pacifist</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
 
-> From: [æˆ‘è‹¥æˆå‘½](#) & Coding: [å–œ](https://space.bilibili.com/443432765)
-
-
+When the Pacifist Vents, they will reset the Kill Cooldown for every player with a Kill button. When they become a Madmate, this ability will only work on Crewmates.

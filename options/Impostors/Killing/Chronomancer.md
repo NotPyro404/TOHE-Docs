@@ -5,8 +5,5 @@ prev: Butcher
 next: Councillor
 ---
 # <font color=red>â³ <b>Chronomancer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: TOU-R & Coded By: [Ryuk](#)
-
-
+As the Chronomancer, you have a charge bar which indicates when the slaughter is ready. When it is at 100% the next time you kill someone, you go into slaughter mode, meaning you can kill indefinitely until your bar runs out of charge. Otherwise, you have a normal KCD.<br>

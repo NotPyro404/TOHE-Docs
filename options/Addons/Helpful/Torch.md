@@ -5,8 +5,5 @@ prev: Tiebreaker
 next: Watcher
 ---
 # <font color=#eee5be>ðŸ•¯ï¸ <b>Torch</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
 
-> From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+Torch has maximum vision and is not affected by Lights Sabotage.

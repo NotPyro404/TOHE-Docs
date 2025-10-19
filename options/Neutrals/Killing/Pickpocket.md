@@ -6,6 +6,6 @@ next: PlagueScientist
 ---
 
 # <font color="#47008b">ðŸ‘¤ <b>Pickpocket</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
-
-> From: Project Lotus & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+ 
+As the Pickpocket, you steal votes from your kills.<br>
+Kill everyone to win.<br>

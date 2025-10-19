@@ -5,8 +5,6 @@ prev: NiceGuesser
 next: Reverie
 ---
 # <font color="#228b22">ðŸ”¥ <b>Retributionist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: Idea & Coding: [Drakos]
-
-
+As the Retributionist, you can kill a limited amount of players after your death.<br>
+Use /ret [playerID] to kill.

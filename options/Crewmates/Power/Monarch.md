@@ -5,8 +5,8 @@ prev: Mayor
 next: Overseer
 ---
 # <font color="#ffa500">ðŸ‘‘ <b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/>
----
 
-> From: Town of Salem 2 & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
-
-
+As the Monarch, you can knight players to give them an extra vote.<br>
+You cannot knight someone who already has multiple votes.<br>
+Knighted players appear with a golden name.<br>
+If a knighted player is alive, the Monarch cannot be guessed or killed.

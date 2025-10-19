@@ -5,8 +5,6 @@ prev: Prohibited
 next: Sloth
 ---
 # <font color=#980404>ðŸ‘¹ <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
----
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
-
-
+As the Rascal, you can die to the Sheriff, and Snitch can find you if Snitch can find Madmates.<br>
+Only assigned to Crewmates, cannot be assigned by the Merchant.

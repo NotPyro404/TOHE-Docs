@@ -1,12 +1,9 @@
 ﻿---
 lang: en-US
 title: DoubleShot
-prev: 
+prev: Rebound
 next: Guesser
 ---
 # <font color=#19fa8d>â© <b>Double Shot</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
----
 
-> From: Town of Us Reactivated & Coding: [Tommy-XL](https://github.com/Tommy-XL)
-
-
+When a player with Double Shot guesses a role incorrectly, they will get a second chance to guess, but the next wrong guess will result in suicide.

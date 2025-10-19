@@ -5,8 +5,6 @@ prev: Necroview
 next: Overclocked
 ---
 # <font color=#fffaa6>ðŸ”‹ <b>Nimble</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
-
-
+As the Nimble, you gain access to the Vent button.<br>
+Only assigned to certain Crewmates.

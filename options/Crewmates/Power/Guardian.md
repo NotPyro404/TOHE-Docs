@@ -5,8 +5,5 @@ prev: Dictator
 next: Lookout
 ---
 # <font color="#2d8855">ðŸ›¡ï¸ <b>Guardian</b></font> <Badge text="Power" type="tip" vertical="middle"/>
----
 
-> From: SLE & Coding: [SolarFlare](#)
-
-
+As the Guardian, you become immortal upon task completion. Guessers can't even guess you in meetings.

@@ -1,12 +1,11 @@
 ﻿---
 lang: en-US
 title: Admirer
-prev: 
+prev: Telecommunication
 next: Captain
 ---
 # <font color="#ee43c3">ðŸ’ž <b>Admirer</b></font> <Badge text="Power" type="tip" vertical="middle"/>
----
 
-> From: Town of Salem II & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
-
-
+As the Admirer, admire a player to make them Crewmate aligned.<br>
+They'll win with Crewmates and not their original team.<br>
+You can only do this once per player.

@@ -5,8 +5,6 @@ prev: Nimble
 next: Radar
 ---
 # <font color=#c4ad2c>âš¡ <b>Overclocked</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
-
-
+As the Overclocked, your Kill Cooldown is reduced by a percentage.<br>
+This feature is only assigned to roles with a Kill button.

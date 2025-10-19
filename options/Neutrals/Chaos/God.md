@@ -6,6 +6,5 @@ next: Pirate
 ---
 
 # <font color=#f96464>ðŸº <b>God</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
----
-
-> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+ 
+As the God, you know everyone's role from the beginning. If you live until the end of the game, you steal the win, i.e., everyone else loses, and you win.<br>

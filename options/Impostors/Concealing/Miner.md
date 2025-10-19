@@ -5,8 +5,5 @@ prev: Lightning
 next: Puppeteer
 ---
 # <font color="red">â›ï¸ <b>Miner</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
----
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+As the Miner, you can use ShapeShift button to teleport back to the last vent you were in.

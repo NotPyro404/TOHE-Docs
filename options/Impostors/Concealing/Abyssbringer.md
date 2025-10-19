@@ -1,12 +1,9 @@
 ﻿---
 lang: en-US
 title: Abyssbringer
-prev: 
+prev: Wildling
 next: Escapist
 ---
 # <font color="red">ðŸŒªï¸ <b>Abyssbringer</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
----
 
-> From: EHR & Coding: [Drakos](https://github.com/Ultradragon005)
-
-
+As the Abyssbringer, you can place black holes. Black holes will suck in players and kill them when colliding with them.

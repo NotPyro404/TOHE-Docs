@@ -5,8 +5,5 @@ prev: Vampire
 next: Wildling
 ---
 # <font color="red">ðŸ§™ <b>Warlock</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
----
 
-> From: TOH
-
-
+As the Warlock, you can Curse up to one other player at a time. When you Shapeshift, if you have Cursed a player, they kill the nearest person, which, depending on settings, can include you or other Impostors. You can kill normally while Shapeshifted.<br>

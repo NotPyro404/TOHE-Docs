@@ -5,8 +5,5 @@ prev: Merchant
 next: Observer
 ---
 # <font color="#333c49">ðŸª¦ <b>Mortician</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
 
-> From: [è‰æš–](https://b23.tv/kTnVK2c) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-
+The Mortician can see arrows pointing to all dead bodies, and if the Mortician reports a body, they will know the last player the victim had contact with. Note: Mortician won't be Oblivious or Seer.

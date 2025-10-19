@@ -2,11 +2,8 @@
 lang: en-US
 title: Witness
 prev: Ventguard
-next: 
+next: Altruist
 ---
 # <font color="#e70052">ðŸ‘ï¸â€ðŸ—¨ï¸ <b>Witness</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
 
-> From: ToUR (Detective) & Coding: [Gurge44](#)
-
-
+As the Witness, when you use your Kill button on someone, you will know if they killed in the last X seconds or not. (X depends on the settings).

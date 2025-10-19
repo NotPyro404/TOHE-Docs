@@ -5,8 +5,5 @@ prev: SoulCatcher
 next: Trickster
 ---
 # <font color="red">ðŸ¦‡ <b>Swooper</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
----
 
-> From: TOHR & Codingï¼š[KARPED1EM](https://github.com/KARPED1EM)
-
-
+As the Swooper, you can Vent to Vanish temporarily. You will still appear visible on your screen. Vent again to become visible.<br>

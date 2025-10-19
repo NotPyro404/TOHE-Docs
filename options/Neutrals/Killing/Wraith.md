@@ -6,6 +6,5 @@ next: Agitator
 ---
 
 # <font color="#4b0082">ðŸ©» <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
 
-> From: TOHR & Codingï¼š[KARPED1EM](https://github.com/KARPED1EM)
+As the Wraith, you can Vent to Vanish temporarily. You will still appear visible on your screen. Vent again to become visible. You win if you are the last player remaining.<br>

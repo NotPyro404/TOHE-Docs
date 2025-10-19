@@ -1,12 +1,10 @@
 ﻿---
 lang: en-US
 title: Autopsy
-prev: 
+prev: Watcher
 next: Bait
 ---
 # <font color=#80ffdd>âž• <b>Autopsy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
 
-> From: TOHY & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
-
-
+As the Autopsy, you can see how people died.<br>
+Cannot be assigned to Doctor, Tracefinder, Scientist, or Sunnyboy.
