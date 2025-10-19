@@ -25,7 +25,7 @@ Important Note: I'm not a preset expert, so any submissions with suggestions for
 <details>
 <summary><b><font color=75ffc3>Introduction to TOHE</font></b></summary>
 
-<a href="../.vuepress/public/presets/StarterIntroTOHE.json" download>Download this Preset</a><br
+<a href="../.vuepress/public/presets/StarterIntroTOHE.json" download>Download this Preset</a><br>
 Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it is to get you familiar with the very base Mechanics.
 
 > Provided by: NotPyro404
